@@ -1,5 +1,6 @@
 # validator
-There are two Barcode validation standards: N10 and N13. 
+
+  There are two Barcode validation standards: N10 and N13. 
 Here are some valid examples of each:
  N10: 
   o 0471958697 
